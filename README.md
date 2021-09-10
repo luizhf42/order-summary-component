@@ -52,4 +52,4 @@ I'm going to keep focusing on best practices, Flexbox and media queries, some ne
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@luizhf42](https://www.frontendmentor.io/profile/luizhf42)
