@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/order-summary-component-using-html-and-css-_gJe8CqFi)
+- [Solution URL](https://www.frontendmentor.io/solutions/order-summary-component-using-html-and-css-RtzaD5z8R)
 - [Live Site URL](https://luizhf42.github.io/order-summary-component/)
 
 ## My process
